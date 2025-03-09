@@ -1,4 +1,5 @@
 # Registros
+```sql
 INSERT INTO cat_tipo VALUES 
 (1, 'Arte', TRUE), 
 (2, 'Historia', TRUE), 
